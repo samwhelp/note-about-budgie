@@ -9,12 +9,36 @@ parent: 如何
 # 停用按鍵綁定「Super_L」開啟「Budgie Menu」
 
 
-## 執行指令
+## 設定指令
 
 ``` sh
-
 gsettings set org.gnome.mutter overlay-key ''
+```
 
+## 恢復指令
+
+若要恢復原本的設定，則是可以執行下面的指令
+
+``` sh
+gsettings reset org.gnome.mutter overlay-key
+```
+
+或是執行下面的指令，恢復原本的設定
+
+``` sh
+gsettings set org.gnome.mutter overlay-key 'Super_L'
+```
+
+執行下面的指令，則是觀看目前的設定值
+
+``` sh
+gsettings get org.gnome.mutter overlay-key
+```
+
+顯示
+
+```
+'Super_L'
 ```
 
 
