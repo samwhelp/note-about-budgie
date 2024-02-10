@@ -15,6 +15,7 @@ parent: 如何
 gsettings set org.gnome.mutter overlay-key ''
 ```
 
+
 ## 恢復指令
 
 若要恢復原本的設定，則是可以執行下面的指令
