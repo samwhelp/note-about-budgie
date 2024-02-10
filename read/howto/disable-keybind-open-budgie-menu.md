@@ -47,3 +47,8 @@ gsettings get org.gnome.mutter overlay-key
 * Search:「[change keybind Open Budgie Menu](https://www.google.com/search?q=change+keybind++Open+Budgie+Menu)」
 * Budgie Desktop / [Keyboard Shortcuts](https://docs.buddiesofbudgie.org/user/keyboard-shortcuts/)
 * [How can I change the default keybinding for the Super key?](https://discourse.ubuntubudgie.org/t/how-can-i-change-the-default-keybinding-for-the-super-key/2223)
+
+
+## 相關議題
+
+* [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-budgie/read/howto/config-mouse-button-modifier.html)
