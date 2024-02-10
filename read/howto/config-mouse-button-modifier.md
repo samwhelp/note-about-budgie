@@ -23,7 +23,7 @@ gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier "'<Super>'"
 gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true
 ```
 
-執行上面兩個指令後，就可以[在視窗操作下面兩個動作]((https://samwhelp.github.io/note-about-budgie/read/config/mousebind.html#視窗內容區塊))，
+執行上面兩個指令後，就可以[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-budgie/read/config/mousebind.html#視窗內容區塊)，
 
 | 滑鼠按鍵組合                |  功能                   |
 | --------------------------- | ----------------------- |
