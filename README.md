@@ -10,12 +10,33 @@
 
 
 
+## Subject
+
+* [按鍵綁定](#按鍵綁定)
+* [如何](#如何)
+* [相關筆記](#相關筆記)
+
+
+
+
 ## 按鍵綁定
 
 | 按鍵綁定 |
 | --- |
 | [鍵盤](https://samwhelp.github.io/note-about-budgie/read/config/keybind.html) |
 | [滑鼠](https://samwhelp.github.io/note-about-budgie/read/config/mousebind.html) |
+
+
+
+
+# 如何
+
+| [如何](https://samwhelp.github.io/note-about-budgie/read/howto.html) |
+| ------- |
+| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-budgie/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Budgie Menu」](https://samwhelp.github.io/note-about-budgie/read/howto/disable-keybind-open-budgie-menu.html) |
+| [設定 Application Appearance](https://samwhelp.github.io/note-about-budgie/read/howto/config-application-appearance.html) |
+| [設定 Application Appearance](https://samwhelp.github.io/note-about-budgie/read/howto/config-application-appearance.html) |
 
 
 
