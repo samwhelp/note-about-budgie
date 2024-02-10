@@ -52,3 +52,34 @@ gsettings get org.gnome.mutter overlay-key
 ## 相關議題
 
 * [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-budgie/read/howto/config-mouse-button-modifier.html)
+
+
+## gschema
+
+| gschema |
+| ------- |
+| /usr/share/glib-2.0/schemas/org.gnome.mutter.gschema.xml |
+
+
+執行下面指令
+
+``` sh
+grep 'overlay-key' /usr/share/glib-2.0/schemas/org.gnome.mutter.gschema.xml -A 12
+```
+
+顯示
+
+``` xml
+    <key name="overlay-key" type="s">
+      <default>'Super_L'</default>
+      <summary>Modifier to use for extended window management operations</summary>
+      <description>
+        This key will initiate the “overlay”, which is a combination window
+        overview and application launching system.  The default is intended
+        to be the “Windows key” on PC hardware.
+
+        It’s expected that this binding either the default or set to
+        the empty string.
+      </description>
+    </key>
+```
