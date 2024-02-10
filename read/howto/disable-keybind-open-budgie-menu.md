@@ -11,6 +11,8 @@ parent: 如何
 
 ## 設定指令
 
+執行下面指令，停用按鍵綁定「Super_L」開啟「Budgie Menu」
+
 ``` sh
 gsettings set org.gnome.mutter overlay-key ''
 ```
