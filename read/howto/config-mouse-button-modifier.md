@@ -57,3 +57,7 @@ gsettings set org.gnome.mutter overlay-key ''
 
 * Menu Applet 開發筆記 / [demo-mouse-button-modifier](https://samwhelp.github.io/note-about-menu-applet/read/demo/demo-mouse-button-modifier.html)
 
+
+## 相關連結
+
+* Arch Wiki / GNOME / [Resize windows by mouse](https://wiki.archlinux.org/title/GNOME#Resize_windows_by_mouse)

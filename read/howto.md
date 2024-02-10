@@ -12,4 +12,5 @@ has_children: true
 
 * [Buddies of Budgie](https://buddiesofbudgie.org/) / [Documentation](https://docs.buddiesofbudgie.org/)
 * Arch Wiki / [Budgie](https://wiki.archlinux.org/title/budgie)
+* Arch Wiki / GNOME / [Configuration](https://wiki.archlinux.org/title/GNOME#Configuration)
 * Debian Wiki / [DesktopEnvironment](https://wiki.debian.org/DesktopEnvironment)
