@@ -52,7 +52,9 @@ gsettings get org.gnome.mutter overlay-key
 
 ## 相關議題
 
-* [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-budgie/read/howto/config-mouse-button-modifier.html)
+| 相關議題 |
+| ------- |
+| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-budgie/read/howto/config-mouse-button-modifier.html) |
 
 
 ## gschema
