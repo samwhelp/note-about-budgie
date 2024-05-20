@@ -23,8 +23,8 @@
 
 | 按鍵綁定 |
 | --- |
-| [鍵盤](https://samwhelp.github.io/note-about-budgie/read/config/keybind.html) |
-| [滑鼠](https://samwhelp.github.io/note-about-budgie/read/config/mousebind.html) |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-budgie/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-budgie/read/config/mousebind.html) |
 
 
 
@@ -36,7 +36,6 @@
 | [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-budgie/read/howto/config-mouse-button-modifier.html) |
 | [停用按鍵綁定「Super_L」開啟「Budgie Menu」](https://samwhelp.github.io/note-about-budgie/read/howto/disable-keybind-open-budgie-menu.html) |
 | [設定 Application Appearance](https://samwhelp.github.io/note-about-budgie/read/howto/config-application-appearance.html) |
-| [設定 Application Appearance](https://samwhelp.github.io/note-about-budgie/read/howto/config-application-appearance.html) |
 
 
 
@@ -45,6 +44,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Ubuntu Budgie 探索筆記](https://samwhelp.github.io/note-about-ubuntu-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-budgie) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
