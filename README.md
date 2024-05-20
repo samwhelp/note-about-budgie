@@ -29,7 +29,7 @@
 
 
 
-# 如何
+## 如何
 
 | [如何](https://samwhelp.github.io/note-about-budgie/read/howto.html) |
 | ------- |
