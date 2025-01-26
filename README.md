@@ -45,6 +45,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Ubuntu Budgie 探索筆記](https://samwhelp.github.io/note-about-ubuntu-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-budgie) |
+| [Fedora Budgie 探索筆記](https://samwhelp.github.io/note-about-fedora-budgie/) | [GitHub](https://github.com/samwhelp/note-about-fedora-budgie) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
