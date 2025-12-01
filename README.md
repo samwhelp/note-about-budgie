@@ -47,7 +47,20 @@
 | [Ubuntu Budgie 探索筆記](https://samwhelp.github.io/note-about-ubuntu-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-budgie) |
 | [Debian Budgie 探索筆記](https://samwhelp.github.io/note-about-debian-budgie/) | [GitHub](https://github.com/samwhelp/note-about-debian-budgie) |
 | [Fedora Budgie 探索筆記](https://samwhelp.github.io/note-about-fedora-budgie/) | [GitHub](https://github.com/samwhelp/note-about-fedora-budgie) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Archlinux Budgie 探索筆記](https://samwhelp.github.io/note-about-archlinux-budgie/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-budgie) |
+| [Solus Budgie 探索筆記](https://samwhelp.github.io/note-about-solus-budgie/) | [GitHub](https://github.com/samwhelp/note-about-solus-budgie) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
 | [Gnome Flashback 探索筆記](https://samwhelp.github.io/note-about-gnome-flashback/) | [GitHub](https://github.com/samwhelp/note-about-gnome-flashback) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
